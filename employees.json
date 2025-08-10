@@ -1,0 +1,124 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "Alice Johnson",
+        "skills": ["Python", "React", "AWS", "Node.js"],
+        "experience_years": 5,
+        "projects": ["E-commerce Platform Migration to AWS", "Healthcare Patient Dashboard"],
+        "availability": "available"
+      },
+      {
+        "id": 2,
+        "name": "Bob Williams",
+        "skills": ["Java", "Spring Boot", "Kubernetes", "Docker"],
+        "experience_years": 8,
+        "projects": ["Banking API Gateway", "Microservices Architecture for Fintech"],
+        "availability": "on_project"
+      },
+      {
+        "id": 3,
+        "name": "Dr. Sarah Chen",
+        "skills": ["Python", "Machine Learning", "TensorFlow", "PyTorch", "Computer Vision"],
+        "experience_years": 6,
+        "projects": ["Medical Diagnosis Platform (X-ray analysis)", "AI-driven Drug Discovery Research"],
+        "availability": "available"
+      },
+      {
+        "id": 4,
+        "name": "Michael Rodriguez",
+        "skills": ["Machine Learning", "scikit-learn", "pandas", "HIPAA Compliance"],
+        "experience_years": 4,
+        "projects": ["Patient Risk Prediction System", "Healthcare Data Anonymization Tool"],
+        "availability": "available"
+      },
+      {
+        "id": 5,
+        "name": "Emily White",
+        "skills": ["React Native", "JavaScript", "Firebase", "UI/UX Design"],
+        "experience_years": 3,
+        "projects": ["Mobile App for Mental Wellness", "Cross-platform E-commerce App"],
+        "availability": "available"
+      },
+      {
+        "id": 6,
+        "name": "David Green",
+        "skills": ["Python", "Django", "PostgreSQL", "DevOps"],
+        "experience_years": 7,
+        "projects": ["Supply Chain Management System", "Automated CI/CD Pipeline Setup"],
+        "availability": "on_project"
+      },
+      {
+        "id": 7,
+        "name": "Jessica Brown",
+        "skills": ["AWS", "Terraform", "Ansible", "Docker", "Security"],
+        "experience_years": 6,
+        "projects": ["Cloud Infrastructure Automation for SaaS", "Security Compliance Audit (SOC 2)"],
+        "availability": "available"
+      },
+      {
+        "id": 8,
+        "name": "Chris Lee",
+        "skills": ["React", "TypeScript", "GraphQL", "Next.js"],
+        "experience_years": 4,
+        "projects": ["Interactive News Media Website", "Real-time Collaboration Tool"],
+        "availability": "available"
+      },
+      {
+        "id": 9,
+        "name": "Laura Martinez",
+        "skills": ["Go", "gRPC", "Prometheus", "Distributed Systems"],
+        "experience_years": 5,
+        "projects": ["High-Frequency Trading System Backend", "Monitoring and Alerting Infrastructure"],
+        "availability": "available"
+      },
+      {
+        "id": 10,
+        "name": "Kevin Harris",
+        "skills": ["Python", "Flask", "AWS Lambda", "Serverless Architecture"],
+        "experience_years": 3,
+        "projects": ["IoT Data Processing Pipeline", "Serverless API for Mobile App"],
+        "availability": "on_project"
+      },
+      {
+        "id": 11,
+        "name": "Maria Garcia",
+        "skills": ["Project Management", "Agile", "Scrum", "JIRA"],
+        "experience_years": 10,
+        "projects": ["Led development of FinTech App", "Managed Healthcare Platform Launch"],
+        "availability": "available"
+      },
+      {
+        "id": 12,
+        "name": "James Clark",
+        "skills": ["C#", ".NET", "Azure", "SQL Server"],
+        "experience_years": 9,
+        "projects": ["Enterprise Resource Planning (ERP) System", "Azure Cloud Migration for Retailer"],
+        "availability": "available"
+      },
+      {
+        "id": 13,
+        "name": "Olivia Hall",
+        "skills": ["React Native", "iOS", "Swift", "Android"],
+        "experience_years": 4,
+        "projects": ["Social Media Mobile Application", "Gaming App for Kids"],
+        "availability": "available"
+      },
+      {
+        "id": 14,
+        "name": "Daniel Taylor",
+        "skills": ["Python", "Data Engineering", "Apache Spark", "Airflow", "AWS"],
+        "experience_years": 5,
+        "projects": ["Big Data Warehouse for Analytics", "ETL Pipeline Optimization"],
+        "availability": "available"
+      },
+      {
+        "id": 15,
+        "name": "Sophia Anderson",
+        "skills": ["Java", "Kafka", "Cassandra", "Microservices"],
+        "experience_years": 6,
+        "projects": ["Real-time Fraud Detection System", "Event-driven architecture for Logistics"],
+        "availability": "on_project"
+      }
+    ]
+  }
